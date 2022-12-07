@@ -1,0 +1,4 @@
+appPort: 8080
+appName: user
+externalSecrets:
+  enabled: true
